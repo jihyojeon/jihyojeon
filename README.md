@@ -21,7 +21,7 @@
 - 😄 Pronouns: she/her
 <!-- - 🌱 I'm currently learning Svelte and Supabase -->
 - 🚀 I’m currently..
-  - building the network for female Korean developers in London (...in progress)
+  - building the network for female Korean developers in London (LoKo-DevGirls!)
     - Please contact me if you are interested! 🇬🇧🇰🇷🧑‍💻
   - building backend for Thunder-Chat(side project!)
 - ⚡ Fun fact: Korea in a country select box could be "South Korea" or "Korea, South" or "Republic of Korea" or "Korea, Republic of" or "Korea" 🤷🏻‍♀️
