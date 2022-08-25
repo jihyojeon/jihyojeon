@@ -13,7 +13,10 @@
 </div>
 
 <!-- <div align=center> -->
-A collaborative full stack developer, experienced with JavaScript technologies. Expert in Node, Express, MongoDB, SQL, WebSockets, React and NextJS. Possess extensive knowledge of computer science and machine learning algorithms.
+1. A collaborative full stack developer, experienced with JavaScript technologies. Expert in Node, Express, MongoDB, SQL, WebSockets, React and NextJS. Possess extensive knowledge of computer science and machine learning algorithms.
+2. Web development Instructor @ [CodeFirstGirls](https://codefirstgirls.com/)
+3. Mentor @ [SchoolOfCode](https://www.schoolofcode.co.uk/)
+4. Ambassador @ [ShowCode - Athena](https://www.showcode.io/)
 
 - 😄 Pronouns: she/her
 <!-- - 🌱 I'm currently learning Svelte and Supabase -->
