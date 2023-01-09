@@ -42,14 +42,14 @@ Here are some ideas to get you started:
 <div align="center">
   
 ## 💻 GitHub Analytics 🚀
-<a href="https://github.com/JIHYO-JEON/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=JIHYO-JEON&show_icons=true&theme=material palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=49.2% />
+<a href="https://github.com/jihyojeon/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=jihyojeon&show_icons=true&theme=material palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=49.2% />
 </a>
-<a href="https://github.com/JIHYO-JEON/github-stats-transparent">
- <img src="https://raw.githubusercontent.com/JIHYO-JEON/github-stats-transparent/output/generated/languages.svg" width=49.2% />
+<a href="https://github.com/jihyojeon/github-stats-transparent">
+ <img src="https://raw.githubusercontent.com/jihyojeon/github-stats-transparent/output/generated/languages.svg" width=49.2% />
 </a>
-![Jihyo's github stats](https://github-readme-stats.vercel.app/api?username=JIHYO-JEON&hide=["contribs","stars"]&show_icons=true&theme=onedark)
-![Jihyo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIHYO-JEON&layout=compact&theme=onedark)
+![Jihyo's github stats](https://github-readme-stats.vercel.app/api?username=jihyojeon&hide=["contribs","stars"]&show_icons=true&theme=onedark)
+![Jihyo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyojeon&layout=compact&theme=onedark)
 </div>
 
 <!-- <br /> -->
