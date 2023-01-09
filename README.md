@@ -1,5 +1,3 @@
-<!-- https://velog.io/@seondal/Github-Readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC#%EC%99%84%EC%84%B1 -->
-
 <div align="center">
   
   # 🔥 Jihyo Jeon 🚀
@@ -43,17 +41,16 @@ Here are some ideas to get you started:
 <!-- ## 💻 &nbsp;GitHub Analytics -->
 <div align="center">
   
-<!--   ## 💻 GitHub Analytics 🚀 -->
-  
-<!-- <a href="https://github.com/JIHYO-JEON/github-readme-stats">
+## 💻 GitHub Analytics 🚀
+<a href="https://github.com/JIHYO-JEON/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=JIHYO-JEON&show_icons=true&theme=material palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=49.2% />
 </a>
 <a href="https://github.com/JIHYO-JEON/github-stats-transparent">
  <img src="https://raw.githubusercontent.com/JIHYO-JEON/github-stats-transparent/output/generated/languages.svg" width=49.2% />
-</a> -->
-<!-- ![Jihyo's github stats](https://github-readme-stats.vercel.app/api?username=JIHYO-JEON&hide=["contribs","stars"]&show_icons=true&theme=onedark)
+</a>
+![Jihyo's github stats](https://github-readme-stats.vercel.app/api?username=JIHYO-JEON&hide=["contribs","stars"]&show_icons=true&theme=onedark)
 ![Jihyo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIHYO-JEON&layout=compact&theme=onedark)
-</div> -->
+</div>
 
 <!-- <br /> -->
 
@@ -66,3 +63,4 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/YoyoJeon1"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https://twitter.com/YoyoJeon1"></a>
 
  -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
